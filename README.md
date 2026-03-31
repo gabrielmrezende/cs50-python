@@ -1,5 +1,6 @@
 # CS50P - Introduction to Programming with Python
 [![CS50P](https://img.shields.io/badge/Harvard-CS50P-red)](https://cs50.harvard.edu/python/)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
 
 This repository contains my solutions and notes from **Harvard University's CS50P: Introduction to Programming with Python**.
 
