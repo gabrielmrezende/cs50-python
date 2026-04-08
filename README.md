@@ -58,7 +58,7 @@ Each folder contains the exercises and problem sets corresponding to each week o
 |-----|------|------|
 | Week 0 | Functions, Variables | ✅ |
 | Week 1 | Conditionals | ✅ |
-| Week 2 | Loops | ⏳ |
+| Week 2 | Loops | ✅ |
 | Week 3 | Exceptions | ⏳ |
 | Week 4 | Libraries | ⏳ |
 | Week 5 | Unit Tests | ⏳ |
