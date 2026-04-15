@@ -1,2 +1,23 @@
-.vscode
-__pycache__
+# Editor
+.vscode/
+
+# Python cache/bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Test/coverage/cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
